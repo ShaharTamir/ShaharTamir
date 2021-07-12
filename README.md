@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaharTamir
 - 👀 I’m interested in backend, web, computers in general
 - 🌱 I’m currently learning Java, started B.Sc in the Open University of Israel in July 2020
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for student development positions in Israel
 - 📫 How to reach me - 
       contact via LinkedIn - https://www.linkedin.com/in/shahar-tamir-157727216/
       or via email - shahar1360@gmail.com
