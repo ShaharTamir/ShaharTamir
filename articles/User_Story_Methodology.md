@@ -11,7 +11,9 @@ These tools are super powerful and when a ***team*** knows how to use them - you
 
 In order to make the most out of our development process we need to first understand 
 how to work with the most basic building blocks.
-As we will start adopting this approach and "lifestyle" we will soon enjoy the fruits of our efforts and see a major change in the way we develop.
+As we will start adopting this approach and "lifestyle" we will soon enjoy the fruits of our efforts and see a major change in the way we develop.  
+
+For more information about git - [check this out](https://github.com/ShaharTamir/ShaharTamir/blob/main/articles/Git_Branching_Methodology.md).
 
 
 
