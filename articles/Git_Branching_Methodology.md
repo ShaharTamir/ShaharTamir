@@ -104,7 +104,7 @@ Same as *master*, before merging a new feature/fix into *dev* it should be teste
 # Branching
 
 * New branches should be created from *development* branch (except for *hotfix*).
-* Each branch should be related to a *User Story* and handle an issue. (see [User Story Methodoloy]()).
+* Each branch should be related to a *User Story* and handle an issue. (see [User Story Methodoloy](https://github.com/ShaharTamir/ShaharTamir/blob/main/articles/User_Story_Methodology.md)).
 * Branches created for learning and so **should remain local. do not push them**.
 * Branches are a private workspace. if you want to work on someone else's branch - **ask first**.
 
