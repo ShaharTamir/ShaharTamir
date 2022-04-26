@@ -10,7 +10,7 @@
       contact via LinkedIn - https://www.linkedin.com/in/shahar-tamir-157727216/
       or via email - shahar1360@gmail.com
       
-In this repo you can find some articles I wrote, and recommendations I received. Check it out!
+In my profile repo you can find some articles I wrote, and recommendations I received. Check it out!
 
 
 <!---
