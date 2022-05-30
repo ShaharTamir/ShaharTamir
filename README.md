@@ -5,7 +5,7 @@
 - while fulltime job - started B.Sc in the Open University of Israel in July 2020 (finish at 2025?),
 - Know some Java, Python, Make, bash..
 - LOVE git.
-- 💞️ I’m looking for a challenging SW developer positions in Israel
+- 💞️ I’m looking for a challenging SW developing positions in Israel
 - 📫 How to reach me - 
       contact via LinkedIn - https://www.linkedin.com/in/shahar-tamir-157727216/
       or via email - shahar1360@gmail.com
