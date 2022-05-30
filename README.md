@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ShaharTamir
 - 👀 I’m interested in solving problems, creating things and working with people!
-- 🌱 I’m currently learning JavaScript and NodeJS (web),
+- 🌱 I’m currently learning JavaScript, NodeJS and MongoDB.
 - 3 years experience in C and C++, 
 - while fulltime job - started B.Sc in the Open University of Israel in July 2020 (finish at 2025?),
-- Know some Java, Python, Make, bash.. 
+- Know some Java, Python, Make, bash..
 - LOVE git.
 - 💞️ I’m looking for a challenging SW developer positions in Israel
 - 📫 How to reach me - 
