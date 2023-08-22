@@ -1,5 +1,5 @@
-👋 Hi, I’m @ShaharTamir
-👀 I’m interested in solving problems, creating things and working with people!
+👋 Hi, I’m @ShaharTamir  
+👀 I’m interested in solving problems, creating things and working with people!  
 🌱 I’m currently learning JavaScript, NodeJS and MongoDB.
 
 - 3.5 years of experience. Worked in C, C++ (2 years), Python, NodeJS and MongoDB (1.5 years).
