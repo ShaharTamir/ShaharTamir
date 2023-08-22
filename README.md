@@ -10,8 +10,8 @@ network, containers, virtual machines and cloud (VMware, AWS), Terraform, Ansibl
 - Also know Java, Make, Bash, CSS and HTML.
 - LOVE git.
 
-💞️ I’m looking for a challenging SW developing positions in Israel
-📫 How to reach me - 
+I’m looking for a challenging SW developing positions in Israel  
+How to reach me - 
       contact via LinkedIn - https://www.linkedin.com/in/shahar-tamir-157727216/
       or via email - shahar1360@gmail.com
       
