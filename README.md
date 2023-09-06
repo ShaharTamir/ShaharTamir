@@ -4,7 +4,7 @@
 
 - 3.5 years of experience. Worked in C, C++ (2 years), Python, NodeJS and MongoDB (1.5 years).
 - In the past year I've been teaching at a hands-on DevOps course - C, Python, virtualization and devops concepts, 
-network, containers, virtual machines and cloud (VMware, AWS), Terraform, Ansible, CI/CD, monitoring and databases.
+network, containers, virtual machines and cloud (VMware, AWS), orchestration tools, IaC tools, CI/CD, monitoring and databases.
 
 - While fulltime job - took some courses in Computer Science at the Open University of Israel (July 2020 - July 2022),
 - Also know Java, Make, Bash, CSS and HTML.
