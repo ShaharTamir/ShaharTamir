@@ -3,7 +3,7 @@
 🌱 Currently working in Python and SQL on ML projects at my job.
 
 
-- Worked in C, C++ (2.5 years) on embedded, real-time projects (August 2019 - March 2022)
+- Worked in C, C++ on embedded, real-time projects (August 2019 - March 2022)
 - Javascript, React, Python, NodeJS, MongoDB, Posrtgress and MySQL, AWS, Docker.... as a fullstack data-science developer (March 2022 - May 2025)
 - Teached a hands-on Software developement, DevOps and Data Science courses (March 2022 - May 2025)
 - Mid 2025 started working at WIX as a frontend developer (May 2025 - present)
