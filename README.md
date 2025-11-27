@@ -2,11 +2,11 @@
 👀 I’m interested in solving problems, creating things and working with people!  
 🌱 Currently working in Python and SQL on ML projects at my job.
 
-- 4.5 years of experience:
-      - Worked in C, C++ (2.5 years) on embedded, real-time projects
-      - Javascript, Python, NodeJS and MongoDB (2 years) as a fullstack developer.
-- In the past year I've been teaching at a hands-on DevOps course - C, Python, virtualization and devops concepts, 
-network, containers (Docker), virtual machines and cloud (VMware, AWS), orchestration tools, IaC tools, CI/CD, monitoring and databases.
+
+- Worked in C, C++ (2.5 years) on embedded, real-time projects (August 2019 - March 2022)
+- Javascript, React, Python, NodeJS, MongoDB, Posrtgress and MySQL, AWS, Docker.... as a fullstack data-science developer (March 2022 - May 2025)
+- Teached a hands-on Software developement, DevOps and Data Science courses (March 2022 - May 2025)
+- Mid 2025 started working at WIX as a frontend developer (May 2025 - present)
 
 - While fulltime job - took some courses in Computer Science at the Open University of Israel (July 2020 - July 2022),
 - Also know Java, Make, Bash, CSS and HTML.
